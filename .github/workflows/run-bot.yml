@@ -1,45 +1,42 @@
 # Nom de notre action automatique
 name: Mise à jour quotidienne des offres d'emploi
 
-# Déclencheurs : quand est-ce que ça doit se lancer ?
+# Déclencheurs
 on:
-  # Permet de le lancer manuellement depuis l'onglet "Actions" pour tester
   workflow_dispatch:
-
   schedule:
-    # Lance le script tous les jours à 6h du matin UTC (soit 8h du matin en France l'été)
+    # Lance le script tous les jours à 6h du matin UTC
     - cron: '0 6 * * *'
 
 # Les tâches à effectuer
 jobs:
   build:
-    # On utilise une machine virtuelle standard fournie par GitHub
     runs-on: ubuntu-latest
 
+    # --- LA CORRECTION EST ICI ---
+    # On donne explicitement la permission au bot d'écrire dans le projet
+    permissions:
+      contents: write
+
     steps:
-      # Étape 1 : Récupérer le code de notre projet (notre bot.py)
       - name: Checkout du code
         uses: actions/checkout@v3
 
-      # Étape 2 : Installer Python
       - name: Mise en place de Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
-      # Étape 3 : Installer les outils de notre bot
       - name: Installation des dépendances et de Chrome
         run: |
           pip install selenium beautifulsoup4 requests
           sudo apt-get update
           sudo apt-get install -y chromium-chromedriver
 
-      # Étape 4 : Lancer notre bot !
       - name: Exécution du bot Python
         run: |
           python bot.py
 
-      # Étape 5 : Sauvegarder automatiquement le nouveau fichier offres.json
       - name: Commit des nouvelles données
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
