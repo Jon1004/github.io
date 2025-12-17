@@ -1,11 +1,19 @@
 [
   {
+    "titre": "Chargé.e de mission DLA - D F/H",
+    "entreprise": "ESS FRANCE OUTRE-MER",
+    "contrat": "CDD",
+    "salaire": "33 - 36 k€ brut annuel",
+    "lieu": "Saint-Martin - 971",
+    "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/177805038W?motsCles=social%20d%C3%A9partemental%20formateur&typesConvention=143684&typesConvention=143685&typesConvention=143686&typesConvention=143687&typesConvention=143706&selectedIndex=0&page=0"
+  },
+  {
     "titre": "Contrôleur de gestion F/H",
     "entreprise": "BRIDGE E.N.G",
     "contrat": "CDI",
     "salaire": "65 - 75 k€ brut annuel",
     "lieu": "Paris 08 - 75",
-    "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/177785239W?motsCles=social%20d%C3%A9partemental%20formateur&typesConvention=143684&typesConvention=143685&typesConvention=143686&typesConvention=143687&typesConvention=143706&selectedIndex=0&page=0"
+    "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/177785239W?motsCles=social%20d%C3%A9partemental%20formateur&typesConvention=143684&typesConvention=143685&typesConvention=143686&typesConvention=143687&typesConvention=143706&selectedIndex=1&page=0"
   },
   {
     "titre": "Chargé de mission circuits-courts F/H",
@@ -13,7 +21,7 @@
     "contrat": "CDD",
     "salaire": "26 - 28 k€ brut annuel",
     "lieu": "Avignon - 84",
-    "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/177695442W?motsCles=social%20d%C3%A9partemental%20formateur&typesConvention=143684&typesConvention=143685&typesConvention=143686&typesConvention=143687&typesConvention=143706&selectedIndex=1&page=0"
+    "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/177695442W?motsCles=social%20d%C3%A9partemental%20formateur&typesConvention=143684&typesConvention=143685&typesConvention=143686&typesConvention=143687&typesConvention=143706&selectedIndex=2&page=0"
   },
   {
     "titre": "charge d'operations de construction des batiments - 04 - ALPES F/H",
@@ -21,7 +29,7 @@
     "contrat": "CDI",
     "salaire": "A négocier",
     "lieu": "Digne-les-Bains - 04",
-    "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/177590026W?motsCles=social%20d%C3%A9partemental%20formateur&typesConvention=143684&typesConvention=143685&typesConvention=143686&typesConvention=143687&typesConvention=143706&selectedIndex=2&page=0"
+    "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/177590026W?motsCles=social%20d%C3%A9partemental%20formateur&typesConvention=143684&typesConvention=143685&typesConvention=143686&typesConvention=143687&typesConvention=143706&selectedIndex=3&page=0"
   },
   {
     "titre": "Responsable pédagogique F/H",
@@ -29,7 +37,7 @@
     "contrat": "CDD",
     "salaire": "A partir de 32 k€ brut annuel",
     "lieu": "Saint-Benoît - 86",
-    "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/177697560W?motsCles=social%20d%C3%A9partemental%20formateur&typesConvention=143684&typesConvention=143685&typesConvention=143686&typesConvention=143687&typesConvention=143706&selectedIndex=3&page=0"
+    "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/177697560W?motsCles=social%20d%C3%A9partemental%20formateur&typesConvention=143684&typesConvention=143685&typesConvention=143686&typesConvention=143687&typesConvention=143706&selectedIndex=4&page=0"
   },
   {
     "titre": "Responsable comptable F/H",
@@ -37,6 +45,14 @@
     "contrat": "CDI",
     "salaire": "43 - 48 k€ brut annuel",
     "lieu": "Lyon 03 - 69",
-    "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/177633843W?motsCles=social%20d%C3%A9partemental%20formateur&typesConvention=143684&typesConvention=143685&typesConvention=143686&typesConvention=143687&typesConvention=143706&selectedIndex=4&page=0"
+    "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/177633843W?motsCles=social%20d%C3%A9partemental%20formateur&typesConvention=143684&typesConvention=143685&typesConvention=143686&typesConvention=143687&typesConvention=143706&selectedIndex=5&page=0"
+  },
+  {
+    "titre": "Responsable de Formation Informatique F/H",
+    "entreprise": "lindustrie-recrute.fr",
+    "contrat": "CDI",
+    "salaire": "A négocier",
+    "lieu": "Beauvais - 60",
+    "url": "https://www.apec.fr/candidat/recherche-emploi.html/emploi/detail-offre/177806148W?motsCles=social%20d%C3%A9partemental%20formateur&typesConvention=143684&typesConvention=143685&typesConvention=143686&typesConvention=143687&typesConvention=143706&selectedIndex=6&page=0"
   }
 ]
